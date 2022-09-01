@@ -16,6 +16,7 @@ public class firsttext extends intialize {
 
 	{
       
+	   System.out.println("nagarajan has high money");
 	   
 	   System.out.println("nagarajan is high paid");
 		
