@@ -18,6 +18,8 @@ public class firsttext extends intialize {
       
 	   
 	   System.out.println("nagarajan is high paid");
+		
+		System.out.println("rajesh is very clever");
 		driver = intializedriver();
 
 		driver.get(prop.getProperty("url"));
