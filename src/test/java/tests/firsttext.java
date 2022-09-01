@@ -15,7 +15,9 @@ public class firsttext extends intialize {
 	public void fistpage() throws IOException
 
 	{
-
+      
+	   
+	   System.out.println("nagarajan is high paid");
 		driver = intializedriver();
 
 		driver.get(prop.getProperty("url"));
